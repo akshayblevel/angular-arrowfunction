@@ -38,6 +38,12 @@ export class EmployeeComponentComponent implements OnInit {
       code: 'VOD1710',
       name: 'Panth Patel',
       salary: 1500
+    },
+    {
+      id: 2,
+      code: 'VOD0408',
+      name: 'Satish Patel',
+      salary: 5000
     }
   ];
 
